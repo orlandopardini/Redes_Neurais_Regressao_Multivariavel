@@ -2,7 +2,7 @@
 
 A **Regressão Multivariável** com Redes Neurais Artificiais (RNAs) é uma abordagem usada para prever **mais de uma variável contínua ao mesmo tempo**. Isso é útil em problemas onde diversas saídas numéricas estão relacionadas ao mesmo conjunto de entradas.
 
-As RNAs são capazes de capturar **relações não lineares complexas** entre múltiplas variáveis de entrada e múltiplas saídas, sendo úteis em aplicações como previsão de indicadores financeiros, desempenho esportivo, vendas, entre outros.
+As RNAs são capazes de capturar **relações não-lineares complexas** entre múltiplas variáveis de entrada e múltiplas saídas, sendo úteis em aplicações como previsão de indicadores financeiros, desempenho esportivo, vendas, entre outros.
 
 ### Por que usar RNA para regressão multivariável?
 
